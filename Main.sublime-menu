@@ -1,0 +1,9 @@
+[{
+  "caption": "Preferences",
+  "mnemonic": "n",
+  "id": "preferences",
+  "children":[{
+    "caption": "Dashboard...",
+    "command": "dashboard_open"
+  }]
+}]
