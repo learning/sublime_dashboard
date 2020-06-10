@@ -1,0 +1,10 @@
+main {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  color: #272822;
+}
+
+main h1 {
+  padding-bottom: 20px;
+}
